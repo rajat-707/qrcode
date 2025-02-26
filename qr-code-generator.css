@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+
+.qr-code {
+    display: none;
+}
+
+.qr-code.active{
+    display: block;
+}
